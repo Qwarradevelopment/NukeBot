@@ -8,7 +8,7 @@ intents.messages = True
 intents.guilds = True
 intents.message_content = True  
 
-TOKEN = 'MTI2NjA1NzIzOTI5OTYyNTExMQ.GQ6FXo.VFMnWfYJCGkRZnoINSoVWwPqj45pJD6ef83YqE'  
+TOKEN = 'ENTER YOUR BOT TOKEN'  # Verander dit in je eigen token.
 kanaal_naam_basis = 'attack-by-hezbollah'
 
 
